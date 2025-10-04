@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sargam/things/llvm-obfuscator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

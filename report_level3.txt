@@ -1,0 +1,39 @@
+=================================================
+      LLVM CODE OBFUSCATION REPORT
+=================================================
+
+Generation Time: Sat Oct  4 22:21:07 2025
+
+--- INPUT PARAMETERS ---
+Input File: test.bc
+Output File: obfuscated_level3.bc
+Obfuscation Level: 3/5
+Obfuscation Cycles: 2
+String Encryption: Enabled
+Control Flow Obfuscation: Enabled
+Bogus Code Insertion: Enabled
+Bogus Code Density: 5/10
+
+--- OBFUSCATION STATISTICS ---
+Total Functions: 7
+Obfuscated Functions: 10
+Strings Encrypted: 27
+Bogus Instructions Inserted: 24
+Fake Loops Inserted: 10
+Control Flow Flattened: 0
+Obfuscation Cycles Completed: 2
+
+--- OUTPUT FILE ATTRIBUTES ---
+Output Format: LLVM Bitcode
+Methods Applied:
+  - String Encryption (XOR-based)
+  - Control Flow Analysis
+  - Bogus Code Insertion
+  - Opaque Predicates
+  - Fake Loop Insertion
+
+--- SUMMARY ---
+Obfuscation Strength: 60%
+Reverse Engineering Difficulty: High
+
+=================================================

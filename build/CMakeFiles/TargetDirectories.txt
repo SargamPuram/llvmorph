@@ -1,0 +1,14 @@
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/intrinsics_gen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/vt_gen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/omp_gen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/acc_gen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/ARMTargetParserTableGen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/obfuscator.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/edit_cache.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/rebuild_cache.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/list_install_components.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/install.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/install/local.dir
+/home/sargam/things/llvm-obfuscator/build/CMakeFiles/install/strip.dir
